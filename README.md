@@ -9,7 +9,7 @@ Passionate about building practical software applications, solving problems, and
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/poornitha-yanamala/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ypoornitha@gmail.com">
