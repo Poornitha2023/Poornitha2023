@@ -52,7 +52,7 @@ Passionate about building practical software applications, solving problems, and
 
 <p align="center">
 <a href="https://leetcode.com/u/Poornitha2023/">
-<img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/poornitha500">
 <img src="https://img.shields.io/badge/CodeChef-400%2B%20Problems-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
