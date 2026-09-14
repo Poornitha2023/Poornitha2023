@@ -188,35 +188,6 @@ Machine-learning project that groups customers according to purchasing behaviour
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Poornitha2023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poornitha2023&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Poornitha2023/Poornitha2023/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## 🏅 Certifications
 
